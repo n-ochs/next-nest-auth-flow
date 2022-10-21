@@ -18,6 +18,7 @@ yarn prisma migrate dev --name init
 ```
 
 Run the app (two terminals):
+
 1.
 ```
 cd client
