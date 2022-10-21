@@ -4,8 +4,9 @@
 
 ## Run this app locally
 * Provision a new Postgres Database on your local machine
+* Clone or fork [this repository](https://github.com/n-ochs/next-nest-auth-flow)
 * Create a .env file inside the server folder, use the .env.example
-* Clone or fork [this repository](https://github.com/n-ochs/next-nest-auth-flow) and run the following commands:
+* Run the following commands:
 
 Install Dependencies and Create DB Tables:
 ```
